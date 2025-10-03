@@ -1,4 +1,4 @@
-# Trustify Frontend Smart Contract
+# Trustify Smart Contract
 
 This repository contains the smart contract for the Trustify platform. This contract is responsible for creating and managing the NFTs that represent notarized documents on the platform.
 
